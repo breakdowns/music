@@ -1,0 +1,179 @@
+{
+  "playlist": [
+    {
+      "title": "Where My Dreams Are Made Of Gold",
+      "artist": "A Reason To Breathe",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Where%20My%20Dreams%20Are%20Made%20Of%20Gold%20-%20A%20Reason%20To%20Breathe.mp3",
+      "cover": "cover/A Reason To Breathe - Where My Dreams Are Made Of Gold.jpg",
+      "lyricsSrc": "lyrics/A Reason To Breathe - Where My Dreams Are Made of Gold.lrc"
+    },
+    {
+      "title": "Building Coral Castle",
+      "artist": "The Words We Use ft. Kellin Quinn",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Building%20Coral%20Castle%20(feat.%20Kellin%20Quinn)%20-%20The%20Words%20We%20Use,%20Kellin%20Quinn.mp3",
+      "cover": "cover/The Words We Use, Kellin Quinn - Building Coral Castle (feat. Kellin Quinn).jpg",
+      "lyricsSrc": "lyrics/Building Coral Castle (feat. Kellin Quinn) - The Words We Use, Kellin Quinn.lrc"
+    },
+    {
+      "title": "Between The Lies",
+      "artist": "Traitors Among Us",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Between%20The%20Lies%20-%20Traitors%20Among%20Us.mp3",
+      "cover": "cover/Traitors Among Us - Between The Lies.jpg",
+      "lyricsSrc": "lyrics/Between The Lies - Traitors Among Us.lrc"
+    },
+    {
+      "title": "Here's To Letting Go",
+      "artist": "The Air I Breathe",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Here's%20To%20Letting%20Go%20-%20The%20Air%20I%20Breathe.mp3",
+      "cover": "cover/The Air I Breathe - Here's To Letting Go.jpg",
+      "lyricsSrc": "lyrics/Here's To Letting Go - The Air I Breathe.lrc"
+    },
+    {
+      "title": "The Cover Up",
+      "artist": "Jamies Elsewhere",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/The%20Cover%20Up%20-%20Jamies%20Elsewhere.mp3",
+      "cover": "cover/Jamies Elsewhere - The Cover Up.jpg",
+      "lyricsSrc": "lyrics/The Cover Up - Jamies Elsewhere.lrc"
+    },
+    {
+      "title": "The Deceiver",
+      "artist": "A Bullet for Pretty Boy",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/The%20Deceiver%20-%20A%20Bullet%20for%20Pretty%20Boy.mp3",
+      "cover": "cover/A Bullet for Pretty Boy - The Deceiver.jpg",
+      "lyricsSrc": "lyrics/The Deceiver - A Bullet for Pretty Boy.lrc"
+    },
+    {
+      "title": "Apollo",
+      "artist": "Writing The Future",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Apollo%20-%20Writing%20The%20Future.mp3",
+      "cover": "cover/Writing The Future - Apollo.jpg",
+      "lyricsSrc": "lyrics/Writing The Future - Apollo.lrc"
+    },
+    {
+      "title": "Dialogue",
+      "artist": "Blood The Face",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Dialogue%20-%20Blood%20The%20Face.mp3",
+      "cover": "cover/Blood The Face - Dialogue.jpg",
+      "lyricsSrc": "lyrics/Blood The Face - Dialogue.lrc"
+    },
+    {
+      "title": "Wearing Thin",
+      "artist": "Hollow Front",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Wearing%20Thin%20-%20Hollow%20Front.mp3",
+      "cover": "cover/Hollow Front - Wearing Thin.jpg",
+      "lyricsSrc": "lyrics/Wearing Thin - Hollow Front.lrc"
+    },
+    {
+      "title": "Drowned Eyes",
+      "artist": "Curveless",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Drowned%20Eyes%20-%20Curveless.mp3",
+      "cover": "cover/Curveless - Drowned Eyes.jpg",
+      "lyricsSrc": "lyrics/Curveless - Drowned Eyes.lrc"
+    },
+    {
+      "title": "Waves",
+      "artist": "Revision the Dream ft. Nir Schwartz",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Waves%20(feat.%20Nir%20Schwartz)%20-%20Revision%20the%20Dream,%20Nir%20Schwartz.mp3",
+      "cover": "cover/Revision the Dream, Nir Schwartz - Waves (feat. Nir Schwartz).jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Amphisbaena",
+      "artist": "Abbie Falls",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Amphisbaena%20-%20Abbie%20Falls.mp3",
+      "cover": "cover/Abbie Falls - Amphisbaena.jpg",
+      "lyricsSrc": "lyrics/Abbie Falls - Amphisbaena.lrc"
+    },
+    {
+      "title": "Guilt",
+      "artist": "Stained With Silver",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Guilt%20-%20Stained%20With%20Silver.mp3",
+      "cover": "cover/Stained With Silver - Guilt.jpg",
+      "lyricsSrc": "lyrics/Guilt - Stained With Silver.lrc"
+    },
+    {
+      "title": "Far from Home",
+      "artist": "Chrome Is Burning",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Far%20from%20Home%20-%20Chrome%20Is%20Burning.mp3",
+      "cover": "cover/Chrome Is Burning - Far from Home.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Tethra",
+      "artist": "Masochistic Healing",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Masochistic%20Healing%20-%20Tethra.mp3",
+      "cover": "cover/Tethra - Masochistic Healing.jpg",
+      "lyricsSrc": "lyrics/Masochistic Healing - Tethra.lrc"
+    },
+    {
+      "title": "Dissociation",
+      "artist": "Down to the Heaven",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Dissociation%20-%20Down%20to%20the%20Heaven.mp3",
+      "cover": "cover/Down to the Heaven - Dissociation.jpg",
+      "lyricsSrc": "lyrics/Dissociation - Down to the Heaven.lrc"
+    },
+    {
+      "title": "Peripheral Failure",
+      "artist": "Secrets",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Peripheral%20Failure%20-%20Secrets.mp3",
+      "cover": "cover/Secrets - Peripheral Failure.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Hellhound",
+      "artist": "Uni/Vs",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Vs%20-%20Hellhound.mp3",
+      "cover": "cover/UNI_VS - Hellhound.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "The Verdict",
+      "artist": "I Am Noah",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/The%20Verdict%20-%20I%20Am%20Noah.mp3",
+      "cover": "cover/I Am Noah - The Verdict.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Search for Solace",
+      "artist": "Overthrone",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Search%20for%20Solace%20-%20Overthrone.mp3",
+      "cover": "cover/Overthrone - Search for Solace.jpg",
+      "lyricsSrc": "lyrics/Search for Solace - Overthrone.lrc"
+    },
+    {
+      "title": "Dreamwake",
+      "artist": "Afterglow",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Afterglow%20-%20Dreamwake.mp3",
+      "cover": "cover/Dreamwake - Afterglow.jpg",
+      "lyricsSrc": "lyrics/Afterglow - Dreamwake.lrc"
+    },
+   {
+      "title": "First Light",
+      "artist": "Lightworker",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/First%20Light%20-%20Lightworker.mp3",
+      "cover": "cover/Lightworker - First Light.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Crooked Soul",
+      "artist": "Dayseeker",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Crooked%20Soul%20-%20Dayseeker.mp3",
+      "cover": "cover/Dayseeker - Crooked Soul.jpg",
+      "lyricsSrc": "lyrics/Crooked Soul - Dayseeker.lrc"
+    },
+    {
+      "title": "You Belong Here",
+      "artist": "PHRENIA",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/You%20Belong%20Here%20-%20PHRENIA.mp3",
+      "cover": "cover/PHRENIA - You Belong Here.jpg",
+      "lyricsSrc": ""
+    },
+    {
+      "title": "Whispers of Your Death",
+      "artist": "Counterparts",
+      "src": "https://bglscbciahxncnwqpdhd.supabase.co/storage/v1/object/public/Breakdowns%20Music/Whispers%20of%20Your%20Death%20-%20Counterparts.mp3",
+      "cover": "cover/Counterparts - Whispers of Your Death.jpg",
+      "lyricsSrc": ""
+    }
+  ]
+}

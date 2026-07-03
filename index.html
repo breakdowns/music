@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breakdowns Music</title>
+    
+    <meta name="theme-color" content="#121212">
+    <link rel="manifest" href="manifest.json">
+
+    <meta property="og:title" content="Hafitz | Playlist">
+    <meta property="og:site_name" content="Breakdowns Music">
+    <meta property="og:description" content="The ultimate Metalcore/Post-Hardcore playlist featuring the Heaviest, Hardest-Hitting Breakdowns. Press Play and get ready to open up the pit!">
+    <meta property="og:type" content="music.playlist">
+    <meta property="music:genre" content="Metalcore" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/breakdowns/music/refs/heads/master/images/breakdowns.png">
+
+    <link rel="icon" type="image/png" href="images/logo.png">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="player-container">
+
+        <div class="player-left-side">
+            <div class="cover-wrapper">
+                <img id="trackCover" src="" alt="Cover Lagu">
+            </div>
+
+            <div class="track-header">
+                <div class="track-info">
+                    <div class="marquee-container">
+                        <h2 id="trackTitle">-</h2>
+                    </div>
+                    <p id="trackArtist">-</p>
+                </div>
+            </div>
+
+            <div class="progress-area">
+                <input type="range" id="progressBar" min="0" max="100" value="0" class="progress-slider">
+                <div class="time-info">
+                    <span id="currentTime">0:00</span>
+                    <span id="duration">0:00</span>
+                </div>
+            </div>
+
+            <div class="controls-area">
+                <button id="shuffleBtn" class="btn-control">
+                    <span class="material-icons">shuffle</span>
+                </button>
+                <button id="prevBtn" class="btn-control">
+                    <span class="material-icons">skip_previous</span>
+                </button>
+                <button id="playBtn" class="btn-play-pause">
+                    <span id="playIcon" class="material-icons">play_arrow</span>
+                </button>
+                <button id="nextBtn" class="btn-control">
+                    <span class="material-icons">skip_next</span>
+                </button>
+                <button id="repeatBtn" class="btn-control">
+                    <span class="material-icons">repeat</span>
+                </button>
+            </div>
+
+            <div class="volume-area">
+                <span class="material-icons" style="font-size: 1.2rem;">volume_down</span>
+                <input type="range" id="volumeSlider" min="0" max="1" step="0.01" value="1" class="volume-slider">
+                <span class="material-icons" style="font-size: 1.2rem;">volume_up</span>
+            </div>
+        </div>
+
+        <div class="player-right-side">
+            <div id="lyricsContainer" class="lyrics-container">
+                <div id="lyricsWrapper"></div>
+            </div>
+
+            <input type="text" id="searchBar" class="search-box" placeholder="Cari Lagu atau Artis...">
+            <div id="playlist" class="playlist-container"></div>
+
+            <div class="watermark">
+                Made with <span style="color: #e91e63;">❤️</span> by <a href="https://hafitz.eu.org" target="_blank">Hafitz</a>
+            </div>
+        </div>
+
+    </div>
+
+    <audio id="mainAudio" crossorigin="anonymous"></audio>
+
+    <script src="app.js"></script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW Error:', err));
+        }
+    </script>
+</body>
+                    </html>

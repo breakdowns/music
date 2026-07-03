@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "short_name": "Breakdowns",
+  "description": "The ultimate Metalcore/Post-Hardcore playlist featuring the Heaviest Breakdowns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme-color": "#121212",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
